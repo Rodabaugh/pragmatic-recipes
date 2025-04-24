@@ -1,4 +1,5 @@
 baseURL = 'https://pragmatic.recipes/'
+permalink = 'https://pragmatic.recipes/'
 languageCode = 'en-us'
 title = 'Pragmatic Recipes'
 theme = "smol"
